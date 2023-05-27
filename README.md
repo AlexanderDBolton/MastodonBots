@@ -1,2 +1,2 @@
-# TwitterBots
-Various Twitter bots
+# MastodonBots
+Various Mastodon bots
